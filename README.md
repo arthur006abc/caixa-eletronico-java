@@ -26,4 +26,3 @@ Projeto desenvolvido para praticar lógica de programação e Programação Orie
 * Java
 
 
-Carlos Arthur
